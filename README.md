@@ -1,5 +1,3 @@
-Aquí tienes el texto completo y listo para copiar en tu archivo README.md. He añadido los badges para que se vea más profesional y dinámico. Solo necesitas crear un repositorio con tu nombre de usuario exacto (Joao1-Silva) y pegar este contenido.
-
 Hola, soy Jonathan Silva 👋
 Soy un desarrollador web Full Stack de Venezuela, apasionado por resolver problemas complejos y afrontar retos de programación. Lo que más me motiva es la constante oportunidad de aprender y sumergirme en proyectos que otros consideran "locos". Aunque me inclino más por el backend, presto gran atención a la funcionalidad y lógica de cada proyecto, siempre con la visión de encontrar una solución, incluso cuando no parece haber un camino claro.
 
